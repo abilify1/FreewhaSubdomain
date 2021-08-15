@@ -8,3 +8,7 @@ cd FreewhaSubdomain
 pip install requests
 python main.py
 ```
+# Info
+```
+Config in config.ini file, and edit index.html first or you can use other file name
+```
