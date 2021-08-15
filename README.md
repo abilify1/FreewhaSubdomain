@@ -1,4 +1,4 @@
-# FreewhaSubdomain
+# Free Subdomain Creator
 Create free subdomain with freewebhostingarea.com
 # Install
 ```
