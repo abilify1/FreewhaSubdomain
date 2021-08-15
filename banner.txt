@@ -1,0 +1,10 @@
+print("""%s
+   __                        _           
+  / _|                      | |          
+ | |_ _ __ ___  _____      _| |__   __ _ 
+ |  _| '__/ _ \/ _ \ \ /\ / / '_ \ / _` |
+ | | | | |  __/  __/\ V  V /| | | | (_| |
+ |_| |_|  \___|\___| \_/\_/ |_| |_|\__,_|%s
+               
+            %sAuthor : %sabilseno11
+            %sTeam : %sAnoncybFakePlayer                                           """%(Main.qu,Main.qu,Main.me,Main.ku,Main.me,Main.ku))
